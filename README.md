@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @indiangorilla
-- 👀 I’m interested in ...
+- 👀 I’m interested in application security topics, cyber security, VA-PT 
 - 🌱 I’m currently learning application security, pen testing 
 - 💞️ I’m looking to collaborate on application security
 - 📫 How to reach me - will be shared later
